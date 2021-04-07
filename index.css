@@ -1,0 +1,35 @@
+.header{
+    background-color: #f8ede3;
+    text-align: center;
+    width: auto;
+    height: 70px;
+    margin-top: -6px;
+    padding-top: 0px;
+    border: 1px solid black;
+
+}
+.menu{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    background-color: aqua;
+    word-spacing: 20px;
+      
+}
+a{
+    text-decoration: none;
+    border: olive 1px solid;
+    color: white;
+    background-color: black;
+}
+.search{
+    padding: 6px;
+    float: right;
+    cursor: pointer;
+    
+}
+.button{
+    margin-top: 20px;
+}
+.card{
+float: left;}
